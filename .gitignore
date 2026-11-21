@@ -1,0 +1,5 @@
+# Router zaxira fayllari: ichida parollar bor!
+*.bin
+*backup*
+*.zip
+*.pdf

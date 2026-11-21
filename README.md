@@ -1,5 +1,12 @@
 # Wi‑Fi Router Tuning
 
+![Router](https://img.shields.io/badge/router-TP--Link%20Archer%20C20-4ACBD6)
+![Bands](https://img.shields.io/badge/Wi--Fi-2.4%20%7C%205%20GHz-blue)
+![Shell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+> 🇬🇧 **English:** A practical guide to home Wi‑Fi tuning — 2.4 vs 5 GHz, channel width (20/40/80 MHz), non-overlapping channels, per-device bandwidth limits (QoS), safe firmware upgrades and router security — with a real before/after case on a TP-Link Archer C20 and a ping stability test script. Docs are in Uzbek.
+
 **Uy Wi‑Fi tarmog'ini tezlashtirish: kanallar, kanal kengligi, tezlik cheklovi va firmware. Tushuntirishlar va amaliy tajriba.**
 
 Internet sekin bo'lsa, ko'pincha aybdor provayder emas, uydagi Wi‑Fi sozlamalari bo'ladi. Router «Avto» rejimda har doim ham eng yaxshi variantni tanlay olmaydi.
